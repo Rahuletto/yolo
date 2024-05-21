@@ -7,8 +7,8 @@ This is my playground to learn YOLOv8 about Computer Vision. Using `ultralytics`
 - [X] [Perimeter Alert](https://github.com/Rahuletto/yolo/blob/main/perimeter.ipynb)
 - [ ] Tracking
 - [X] [Image Segmentation](https://github.com/Rahuletto/yolo/blob/main/segmentation.ipynb)
-- [ ] Masking
-- [ ] Background Blur
+- [X] Masking
+- [X] Background Blur
 - More soon
 
 ### Interested?
