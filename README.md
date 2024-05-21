@@ -9,6 +9,8 @@ This is my playground to learn YOLOv8 about Computer Vision. Using `ultralytics`
 - [X] [Image Segmentation](https://github.com/Rahuletto/yolo/blob/main/segmentation.ipynb)
 - [X] [Masking](https://github.com/Rahuletto/yolo/blob/main/mask.ipynb)
 - [X] [Background Blur](https://github.com/Rahuletto/yolo/blob/main/blur.ipynb)
+- [ ] Hand Gestures
+- [ ] Sign language model
 - More soon
 
 ### Interested?
