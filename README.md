@@ -6,7 +6,9 @@ This is my playground to learn YOLOv8 about Computer Vision. Using `ultralytics`
 - [X] [Pose Detection](https://github.com/Rahuletto/yolo/blob/main/pose.ipynb)
 - [X] [Perimeter Alert](https://github.com/Rahuletto/yolo/blob/main/perimeter.ipynb)
 - [ ] Tracking
-- [ ] Image Segmentation
+- [X] [Image Segmentation](https://github.com/Rahuletto/yolo/blob/main/segmentation.ipynb)
+- [ ] Masking
+- [ ] Background Blur
 - More soon
 
 ### Interested?
